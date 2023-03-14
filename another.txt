@@ -1,0 +1,5 @@
+hello world
+new file is created named another.txt 
+we have to first add it then commit
+then push
+
